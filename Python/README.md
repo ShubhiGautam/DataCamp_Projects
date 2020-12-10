@@ -15,9 +15,9 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/gautshubhi) projects
 ## R
 | Project | Description |
 | --- | --- |
-| `Introduction to DataCamp Projects` | If you have never done a DataCamp project, this is the place to start! |
+| `` |  |
 
 ## SQL
 | Project | Description |
 | --- | --- |
-| `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
+| `` | |
