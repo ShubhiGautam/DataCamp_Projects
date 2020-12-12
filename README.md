@@ -9,15 +9,15 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/gautshubhi) projects
 ## Python
 | Project | Description |
 | --- | --- |
-| `A Network analysis of Game of Thrones` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
+| `Comparing Cosmetics by Ingredients` | Process ingredient lists for cosmetics on Sephora then visualize similarity using t-SNE and Bokeh. |
 
 
 ## R
 | Project | Description |
 | --- | --- |
-| `Introduction to DataCamp Projects` | If you have never done a DataCamp project, this is the place to start! |
+| `` |  |
 
 ## SQL
 | Project | Description |
 | --- | --- |
-| `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
+| `` | |
